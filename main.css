@@ -1,0 +1,16 @@
+ol {
+ text-align: center; border:1px hidden black;
+}
+
+ol, ul{
+  list-style-type: none;
+}
+
+.box {
+background-color: white;
+}
+
+.list{
+  color: red;
+}
+
